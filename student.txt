@@ -1,0 +1,3 @@
+student name: Kris Janssen
+student number: 698551
+student class: INF1B
